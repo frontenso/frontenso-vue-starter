@@ -1,4 +1,4 @@
-# d1
+# Vue.js starter by frōntensō
 
 ## Project setup
 
